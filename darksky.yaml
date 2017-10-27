@@ -9,7 +9,7 @@ info:
   description:  |
                 ## Use Dark Sky to get weather forecasts and historical weather data.
 
-                This service in an integration with
+                This is a Murano Service integration with
                 [Dark Sky](https://darksky.net) to allow your Murano solution
                 to get weather forecasts and historical weather data. [Powered by Dark Sky](https://darksky.net/poweredby/)
   contact:
