@@ -13,8 +13,8 @@ info:
                 [Dark Sky](https://darksky.net) to allow your Murano solution
                 to get weather forecasts and historical weather data. [Powered by Dark Sky](https://darksky.net/poweredby/)
   contact:
-    name:       Exosite Support
-    email:      support@exosite.com
+    name:       Martin Davis
+    email:      martindavis@exosite.com
 # documentation
 externalDocs:
   description:  Dark Sky documentation
